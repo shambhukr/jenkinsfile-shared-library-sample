@@ -1,4 +1,4 @@
-@Library('shambhukr/jenkins-basic-shared-library-sample') _
+@Library('jenkins-basic-shared-library-sample') _
 
 standardPipeline {
     projectName = "Project1"
