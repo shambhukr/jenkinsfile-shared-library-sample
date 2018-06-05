@@ -1,4 +1,4 @@
-@Library('jalogut/jenkins-basic-shared-library-sample') _
+@Library('shambhukr/jenkins-basic-shared-library-sample') _
 standardPipeline {
     projectName = "Project1"
     serverDomain = "Project1 Server Domain"
